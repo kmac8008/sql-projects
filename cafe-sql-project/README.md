@@ -1,4 +1,4 @@
-**Cafe Sales Analysis Project with SQL**
+****Cafe Sales Analysis Project with SQL****
 
 **Project Overview**
 This project analyzes restaurant order data using SQL to uncover insights about customer behavior, menu performance, and sales trends. The goal is to demonstrate SQL skills commonly used in data analyst roles, including data cleaning, aggregation, filtering, and analytical queries.
