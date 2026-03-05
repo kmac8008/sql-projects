@@ -15,18 +15,6 @@ Order date
 **Tools Used**
 SQL
 
-**Project Structure**
-cafe-sql-project/
-│
-├── data/
-│   └── cafe_sales.csv
-│
-├── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_exploratory_analysis+business_questions.sql
-│
-└── README.md
-
 **Key Business Questions**
 This project answers several business questions including:
 What are the most ordered menu items?
