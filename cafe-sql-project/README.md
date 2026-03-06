@@ -4,7 +4,10 @@
 This project analyzes restaurant order data using SQL to uncover insights about customer behavior, menu performance, and sales trends. The goal is to demonstrate SQL skills commonly used in data analyst roles, including data cleaning, aggregation, filtering, and analytical queries.
 
 **Data Cleaning Queries**
-cafe-sql-project/sql/01_data_cleaning.sql
+[cafe-sql-project/sql/01_data_cleaning.sql](https://github.com/kmac8008/sql-projects/blob/main/cafe-sql-project/sql/01_data_cleaning.sql)
+
+**Exploratory Analysis + Business Questions**
+https://github.com/kmac8008/sql-projects/blob/main/cafe-sql-project/sql/02_exploratory_analysis%2Bbusiness_questions.sql
 
 **Dataset**
 The dataset contains information about restaurant orders including:
