@@ -5,3 +5,4 @@ Project 1: Cafe Data Cleaning & Analysis
 https://github.com/kmac8008/sql-projects/tree/main/cafe-sql-project
 
 Project 2: Hopsital Patient Data Cleaning & Analysis
+https://github.com/kmac8008/sql-projects/tree/main/Hospital%20Patients%20Data%20SQL%20Project
