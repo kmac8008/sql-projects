@@ -14,7 +14,8 @@ https://github.com/kmac8008/sql-projects/tree/main/cafe-sql-project
 ●	Interpreted cleaned data to **answer business questions** and deliver actionable insights
 
 
-Project 2: Hopsital Patient Data Cleaning & Analysis + Tableau Dashboard
+
+**Project 2: Hopsital Patient Data Cleaning & Analysis + Tableau Dashboard**
 
 https://github.com/kmac8008/sql-projects/tree/main/hospital_patients_sql_project
 
